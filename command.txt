@@ -1,0 +1,8 @@
+
+python parse.py cardlist.csv .\9ED.txt
+python parse.py cardlist.csv .\BOK.txt
+python parse.py cardlist.csv .\CHK.txt
+python parse.py cardlist.csv .\SOK.txt
+python parse.py cardlist.csv .\RAV.txt
+python parse.py cardlist.csv .\GPT.txt
+python parse.py cardlist.csv .\DIS.txt
